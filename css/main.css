@@ -51,10 +51,7 @@ body {
 }
 
 .time {
- width: 85%;
- position: absolute;
- right: 0;
- bottom: 0;
+
 }
 
 .time-bar {
@@ -68,7 +65,7 @@ body {
   position: absolute;
   bottom: 0;
   right: 0;
-  width: 100%;
+  width: 95%;
 }
 
 /*
@@ -89,7 +86,7 @@ body {
 .time-lapsed {
   font-size: .7rem;
   position: absolute;
-  left: .5em;
+  left: 5em;
   bottom: 1em;
 }
 
@@ -107,15 +104,11 @@ body {
   font-size: 1.4rem;
   line-height: 16px;
   list-style-type: none;
-  position: absolute;
-  right: 0;
-  top: 0;
-  width: 85%;
 }
 
 .control-shuffle {
   position: absolute;
-  left: 0.25em;
+  left: 2.5em;
   top: 0.25em;
 }
 
